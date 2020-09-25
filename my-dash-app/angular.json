@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-dash-app"
+    }
+  },
+  "defaultProject": "my-dash-app",
+  "cli": {
+    "analytics": "0944a898-7f2e-4f0f-bde0-21b36278f411"
+  }
 }
